@@ -1,12 +1,11 @@
 ## Projects
 
-You can use the [editor on GitHub](https://github.com/nroyce7/nroyce7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These are some of the projects I am working on or have completed!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Data Transmission With Optical Vortices
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![research.jpg](src)
 
 ```markdown
 Syntax highlighted code block
