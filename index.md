@@ -10,9 +10,9 @@ These are some of the projects I am working on or have completed!
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/afm.jpg?raw=true" width="500">
 
 ## Simulations
-```
+Kinematics with variable mass
+```python
 import matplotlib.pyplot as plt
-import numpy
 
 g = -9.8 #m/s^2
 dt = 1
