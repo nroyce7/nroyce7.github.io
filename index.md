@@ -11,6 +11,7 @@ These are some of the projects I am working on or have completed!
 
 ## Simulations
 '''
+
 import matplotlib.pyplot as plt
 import numpy
 
@@ -48,4 +49,5 @@ for t in range(25):
 plt.plot(acc_plt)
 plt.plot(vel_plt)
 plt.plot(pos_plt)
+
 '''
