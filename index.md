@@ -10,7 +10,7 @@ These are some of the projects I am working on or have completed!
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/afm.jpg?raw=true" width="500">
 
 ## Simulations
-
+```
 import matplotlib.pyplot as plt
 import numpy
 
@@ -48,4 +48,4 @@ for t in range(25):
 plt.plot(acc_plt)
 plt.plot(vel_plt)
 plt.plot(pos_plt)
-
+```
