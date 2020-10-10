@@ -6,8 +6,7 @@ These are some of the projects I am working on or have completed!
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/research.JPG?raw=true" width="1000">
 
 ## Surface Plasmon Resonance
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+<a href="https://www.codecogs.com/eqnedit.php?latex=\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" title="\LARGE k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" /></a>
 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr%20setup.jpg?raw=true" width="300">
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/afm.jpg?raw=true" width="500">
