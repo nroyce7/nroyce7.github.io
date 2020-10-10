@@ -6,6 +6,9 @@ These are some of the projects I am working on or have completed!
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/research.JPG?raw=true" width="1000">
 
 ## Surface Plasmon Resonance
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr%20setup.jpg?raw=true" width="300">
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/afm.jpg?raw=true" width="500">
 
@@ -56,15 +59,15 @@ plt.plot(pos_plt)
 ## Microscopy
 These are images I've taken with various microscopes at UW Stout.
 
-### Tungsten Filament
+### Tungsten Filament (SEM)
 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/filament%20sem.jpg?raw=true" width="500">
 
-### Wood Fiber
+### Wood Fiber (SEM)
 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/wood%20sem.jpg?raw=true" width="500">
 
-### Mushroom Gill
+### Mushroom Gill (SEM)
 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/mushroom%20sem.jpg?raw=true" width="500">
 
