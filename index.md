@@ -62,15 +62,15 @@ plt.plot(pos_plt)
 These are images I've taken with various microscopes at UW Stout.
 
 ### Tungsten Filament (SEM)
-I knew the knew that the filaments in a lightbulb were coils but until I saw it in an SEM I had no idea it was a coil of coils. \n
+I knew the knew that the filaments in a lightbulb were coils but until I saw it in an SEM I had no idea it was a coil of coils. <br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/filament%20sem.jpg?raw=true" width="500">
 
 ### Wood Fiber (SEM)
-I really love this image but I'm not a biologist to I have no idea what I'm looking at.\n
+I really love this image but I'm not a biologist to I have no idea what I'm looking at.<br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/wood%20sem.jpg?raw=true" width="500">
 
 ### Mushroom Gill (SEM)
-This is the higest magnification picture I've taken with the SEM and once again I'm not entirely sure what I'm looking at but I think it might be the spores of the mushroom.\n
+This is the higest magnification picture I've taken with the SEM and once again I'm not entirely sure what I'm looking at but I think it might be the spores of the mushroom.<br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/mushroom%20sem.jpg?raw=true" width="500">
 
 
