@@ -54,8 +54,18 @@ plt.plot(pos_plt)
 ```
 
 ## Microscopy
+These are images I've taken with various microscopes at UW Stout.
+
+### Tungsten Filament
+
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/filament%20sem.jpg?raw=true" width="500">
+
+### Wood Fiber
+
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/wood%20sem.jpg?raw=true" width="500">
+
+### Mushroom Gill
+
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/mushroom%20sem.jpg?raw=true" width="500">
 
 
