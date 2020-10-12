@@ -8,7 +8,7 @@ These are some of the projects I am working on or have completed!
 ## Surface Plasmon Resonance
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" title="\LARGE k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" /></a>
 
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr%20setup.jpg?raw=true" width="300">
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr%20setup.jpg?raw=true" width="300" class="center">
 
 A glass slide was covered in gold using a sputter coater, which atomizes gold using plasma. We needed a 40nm layer for optimal SPR and decided to use the Atomic Force Microscope to try to measure the gold slides we were making. It took a lot of trial and error as well as the help of the Intrumentation Innovator, but we managed to get this image that measures the gold ridge on the glass slide.
 
@@ -62,11 +62,11 @@ plt.plot(pos_plt)
 These are images I've taken with various microscopes at UW Stout.
 
 ### Tungsten Filament (SEM)
-I knew the knew that the filaments in a lightbulb were coils but until I saw it in an SEM I had no idea it was a coil of coils. <br />
+I knew that the filaments in a lightbulb were coils but until I saw it in an SEM I had no idea it was a coil of coils. <br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/filament%20sem.jpg?raw=true" width="500">
 
 ### Wood Fiber (SEM)
-I really love this image but I'm not a biologist to I have no idea what I'm looking at.<br />
+I really love this image but I'm not a biologist so I have no idea what I'm looking at.<br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/wood%20sem.jpg?raw=true" width="500">
 
 ### Mushroom Gill (SEM)
