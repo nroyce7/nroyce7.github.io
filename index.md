@@ -74,7 +74,7 @@ This is the higest magnification picture I've taken with the SEM and once again 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/mushroom%20sem.jpg?raw=true" width="500">
 
 ### Copper Wire (Optical)
-This was a small piece of copper wire I found in the lab at 400x magnification, where you can see the slight gouges from the wire-drawing process that made it.
+This was a small piece of copper wire I found in the lab at 400x magnification, where you can see the slight gouges from the wire-drawing process that made it.<br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/400x%20copper%20wire.jpg?raw=true" width="500">
 
 
