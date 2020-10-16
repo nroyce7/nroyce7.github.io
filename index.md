@@ -77,6 +77,9 @@ This is the higest magnification picture I've taken with the SEM and once again 
 This was a small piece of copper wire I found in the lab at 400x magnification, where you can see the slight gouges from the wire-drawing process that made it.<br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/400x%20copper%20wire.jpg?raw=true" width="500">
 
+### Leaf (Optical)
+Here's another example of my limited knowledge of biology, but here is a leaf at 400x magnification. I don't know what kind of leaf it is but I do know we are looking at the plant cells.<br />
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/40x_flowerPetal.jpg?raw=true" width="500">
 
 
 
