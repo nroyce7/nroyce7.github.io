@@ -2,10 +2,7 @@
 
 These are some of the projects I am working on or have completed!
 
-<a href="test.md">Page 2</a>
-
-## Data Transmission With Optical Vortices
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/research.JPG?raw=true" width="1000">
+<a href="test.md">Optical Vortices</a>
 
 ## Surface Plasmon Resonance
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" title="\LARGE k_{evan}=\frac{2{\pi}}{\lambda}n_{1}\sin\theta" /></a>
