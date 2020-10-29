@@ -1,4 +1,4 @@
-#Surface Plasmon Resonance
+# Surface Plasmon Resonance
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\LARGE&space;k_{evan}=\frac{2pi}{\lambda}n_{1}\sin\theta" title="\LARGE k_{evan}=\frac{2{\pi}}{\lambda}n_{1}\sin\theta" /></a>
 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr%20setup.jpg?raw=true" width="300" class="center">
