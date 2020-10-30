@@ -20,6 +20,7 @@ Shining light at the interface of a dielectric and a conductor gives us a strang
 For my final project in my Nanomaterials course I looked at various fibers under a Scanning Electron Microscope in order to characterize them.
 <br />
 [Read More](pages/fiber.md)
+<br />
 
 ## Simulations
 Kinematics with variable mass
