@@ -14,7 +14,7 @@ I worked on a proof of concept system that uses the optical phenomenon known as 
 Shining light at the interface of a dielectric and a conductor gives us a strange byproduct known as a plasmon; a discrete packet of plasma that acts like a particle. We studied this phenomena in my Intro to Research Methods class. <br />
 [Read More](pages/SPR.md)
 <br />
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png" width="300">
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png?raw=true" width="300">
 
 ## Fiber Characterization
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/Noah%20Royce%20NANO-230-page-001.jpg?raw=true" width="1000">
