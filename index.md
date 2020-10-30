@@ -23,45 +23,10 @@ For my final project in my Nanomaterials course I looked at various fibers under
 <br />
 
 ## Simulations
-Kinematics with variable mass
-```python
-import matplotlib.pyplot as plt
-
-g = -9.8 #m/s^2
-dt = 1
-
-thrust = 210
-dm = -1 #kg/s
-fuselage_mass = 10
-vel = 0
-pos = 0
-
-acc_plt = []
-vel_plt = []
-pos_plt = []
-
-for t in range(25):
-    fuel_mass = 10 + (dm*t)
-    if fuel_mass <= 0:
-        fuel_mass = 0
-        thrust = 0
-    rocket_mass = fuel_mass + fuselage_mass
-
-    acc = thrust/rocket_mass + g
-    vel = vel + acc*dt
-    pos = pos + vel*dt
-    
-    if pos < 0:
-        pos = 0
-    
-    acc_plt.append(acc)
-    vel_plt.append(vel)
-    pos_plt.append(pos)
-
-plt.plot(acc_plt)
-plt.plot(vel_plt)
-plt.plot(pos_plt)
-```
+Scientific computing is a large part of my education here at Stout and I enjoy trying to simulate various systems in my free time 
+<br />
+[Read More](pages/fiber.md)
+<br />
 
 ## Microscopy
 These are images I've taken with various microscopes at UW Stout.
