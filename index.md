@@ -17,7 +17,7 @@ Shining light at the interface of a dielectric and a conductor gives us a strang
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png?raw=true" width="300">
 
 ## Fiber Characterization
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/Noah%20Royce%20NANO-230-page-001.jpg?raw=true" width="1000">
+
 
 ## Simulations
 Kinematics with variable mass
