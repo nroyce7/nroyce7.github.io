@@ -32,6 +32,6 @@ These are images I've taken with various microscopes at UW Stout.
 <br />
 [Read More](pages/microscopy.md)
 <br />
-
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png?raw=true" width="300">
 
 
