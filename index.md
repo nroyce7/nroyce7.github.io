@@ -20,6 +20,7 @@ For my final project in my Nanomaterials course I looked at various fibers under
 <br />
 [Read More](pages/fiber.md)
 <br />
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/sem.jpg?raw=true" width="300">
 
 ## Simulations
 Scientific computing is a large part of my education here at Stout and I enjoy trying to simulate various systems in my free time 
