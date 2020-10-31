@@ -27,6 +27,11 @@ Scientific computing is a large part of my education here at Stout and I enjoy t
 [Read More](pages/simulation.md)
 <br />
 
+## Amateur Astronomy
+I also enjoy star gazing and astrophotography in my free time.
+<br />
+[Read More](pages/astronomy.md)
+
 ## Microscopy
 These are images I've taken with various microscopes at UW Stout. 
 <br />
