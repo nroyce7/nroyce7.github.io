@@ -27,6 +27,7 @@ Scientific computing is a large part of my education here at Stout and I enjoy t
 <br />
 [Read More](pages/simulation.md)
 <br />
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/sim.png?raw=true" width="300">
 
 ## Amateur Astronomy
 I also enjoy star gazing and astrophotography in my free time.
