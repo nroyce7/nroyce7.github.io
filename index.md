@@ -32,7 +32,9 @@ Scientific computing is a large part of my education here at Stout and I enjoy t
 I also enjoy star gazing and astrophotography in my free time.
 <br />
 [Read More](pages/astronomy.md)
+<br />
 
+<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/telescope.jpg?raw=true" width="300">
 ## Microscopy
 These are images I've taken with various microscopes at UW Stout. 
 <br />
