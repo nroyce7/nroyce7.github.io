@@ -1,5 +1,6 @@
 ## Simulations
 
+### Simple Rocket with Variable Mass
 ```python
 import matplotlib.pyplot as plt
 
@@ -38,3 +39,9 @@ plt.plot(acc_plt)
 plt.plot(vel_plt)
 plt.plot(pos_plt)
 ```
+
+### Pi Day Collisions
+
+<video width="320" height="240" controls>
+      <source src="ps_0_1.mp4" type=video/mp4>
+    </video>
