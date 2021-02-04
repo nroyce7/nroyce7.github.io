@@ -41,7 +41,6 @@ plt.plot(pos_plt)
 ```
 
 ### Pi Day Collisions
-
-<video width="320" height="240" controls>
-      <source src="ps_0_1.mp4" type=video/mp4>
-    </video>
+<video width="400" height="350" controls> 
+  <source src="ps_0_1.mp4" type="video/mp4"> 
+</video> 
