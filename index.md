@@ -1,6 +1,6 @@
-# Projects
+# Welcome!
 
-These are some of the projects I am working on or have completed!
+My name is Noah and I'm an undergraduate studying Physics and Applied Mathematics at UW Stout. I've dreamed of becoming a scientist since 6 years old and I've known I wanted to study physics since middle school (before that I wanted to become a herpetologist, I still love reptiles though!). My current goal is to conduct research in Quantum Computing as it is the intersection of Physics, Mathematics, and Computer Science. My other interests in physics are Quantum Mechanics (naturally), Statitical Mechanics, Astrophysics, and Optics. Interests outside of physics (as the relate to physics as well as in general) include Machine Learning, Science Communication, Data Science, Mathematical Logic, and 3D Printing. 
 
 ## Optical Vortices
 
