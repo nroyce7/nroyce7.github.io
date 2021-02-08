@@ -15,12 +15,11 @@ Shining light at the interface of a dielectric and a conductor gives us a strang
 <br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png?raw=true" width="300">
 
-## Fiber Characterization
-For my final project in my Nanomaterials course I looked at various fibers under a Scanning Electron Microscope in order to characterize them.
+## Miscellaneous Projects
+Various projects and papers I've done.
 <br />
-[Read More](pages/fiber.md)
+[Read More](pages/misc.md)
 <br />
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/sem.jpg?raw=true" width="300">
 
 ## Simulations
 Scientific computing is a large part of my education here at Stout and I enjoy trying to simulate various systems in my free time 
