@@ -88,4 +88,71 @@ plt.plot(pos_plt)
 ```
 
 ### Pi Day Collisions
+```python
+import pygame
 
+class Square:
+    def __init__(self, posx, mass, vel, length):
+        self.posx = posx
+        self.mass = mass
+        self.vel = vel
+        self.length = length
+
+pygame.init()
+width = 700
+height = 500
+screen = pygame.display.set_mode((width, height))
+done = False
+myfont = pygame.font.SysFont("3ds", 100)
+
+digits = 0
+plane_y = 300
+RED = (255,0,0)
+dt = 1/1000
+
+s1 = Square(100, 1, 0, 25)
+s2 = Square(200, 100**(digits), -0.01/dt, 150)
+
+collisions = 0
+
+def collide():
+    new_vel1 = (((s1.mass - s2.mass)/(s1.mass + s2.mass))*s1.vel) + (((2*s2.mass)/(s1.mass + s2.mass))*s2.vel)
+    new_vel2 = (((2*s1.mass)/(s1.mass + s2.mass))*s1.vel) + (((s2.mass - s1.mass)/(s1.mass + s2.mass))*s2.vel)
+
+    s1.vel = new_vel1
+    s2.vel = new_vel2
+
+
+def hit_wall():
+    s1.vel *= -1
+
+
+while not done:
+        for event in pygame.event.get():
+                if event.type == pygame.QUIT:
+                        done = True
+
+        for i in range(100):
+            print(collisions)
+            s1.posx += s1.vel*dt
+            s2.posx += s2.vel*dt
+
+            if(s1.posx + (s1.length) < s2.posx or s1.posx > s2.posx + (s2.length)):
+                pass
+            else:
+                collide()
+                collisions += 1
+
+            if(s1.posx <= 0):
+                hit_wall()
+                collisions += 1
+
+            screen.fill((0, 0, 0))
+            box1 = pygame.draw.rect(screen, RED, (s1.posx, plane_y, s1.length, s1.length))
+            box2 = pygame.draw.rect(screen, RED, (s2.posx, plane_y-125, s2.length, s2.length))
+            ground = pygame.draw.rect(screen, (255,255,255), (0, 326, 1080, 1000))
+            count = myfont.render(str(collisions), 1,(0,0,0))
+            screen.blit(count, (10,320))
+        pygame.display.flip()
+```
+<video src="/videos/PiDay.mp4" width="420" height="300" controls preload></video>
