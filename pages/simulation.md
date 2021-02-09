@@ -44,7 +44,8 @@ while running:
 pygame.quit()
 ```
 <video src="/videos/ps_0_1.mp4" width="420" height="300" controls preload></video>
-
+<\br>
+<\br>
 
 ### Simple Rocket with Variable Mass
 ```python
