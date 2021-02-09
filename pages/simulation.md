@@ -1,5 +1,10 @@
 ## Simulations
 
+### Concentric Circular Orbits
+```python
+```
+
+
 ### Simple Rocket with Variable Mass
 ```python
 import matplotlib.pyplot as plt
@@ -42,5 +47,5 @@ plt.plot(pos_plt)
 
 ### Pi Day Collisions
 <video width="400" height="350" controls> 
-  <source src="ps_0_1.mp4" type="video/mp4"> 
+  <source src="https://github.com/nroyce7/nroyce7.github.io/blob/master/ps_0_1.mp4" type="video/mp4"> 
 </video> 
