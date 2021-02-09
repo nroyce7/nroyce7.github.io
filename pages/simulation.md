@@ -3,7 +3,7 @@
 ### Concentric Circular Orbits
 ```python
 ```
-<video src="videos/ps_0_1.mp4" width="320" height="200" controls preload></video>
+<video src="/videos/ps_0_1.mp4" width="320" height="200" controls preload></video>
 
 
 ### Simple Rocket with Variable Mass
