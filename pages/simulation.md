@@ -3,6 +3,7 @@
 ### Concentric Circular Orbits
 ```python
 ```
+<video src="videos/ps_0_1.mp4" width="320" height="200" controls preload></video>
 
 
 ### Simple Rocket with Variable Mass
@@ -46,6 +47,4 @@ plt.plot(pos_plt)
 ```
 
 ### Pi Day Collisions
-<video width="400" height="350" controls> 
-  <source src="videos/ps_0_1.mp4" type="video/mp4"> 
-</video> 
+
