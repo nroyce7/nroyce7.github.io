@@ -5,21 +5,8 @@ My name is Noah and I'm an undergraduate studying Physics and Applied Mathematic
 ## Research Projects
 Various projects and papers I've done that don't need a whole page.
 <br />
-[Read More](pages/misc.md)
+[Read More](pages/projects.md)
 <br />
-
-## Optical Vortices
-
-I worked on a proof of concept system that uses the optical phenomenon known as an Optical Vortex created with a spatial light modulator, paired with programmable Arduino Boards to encode and decode the beam in order to transmit data through air. <br />
-[Read More](pages/Optical_Vortices.md)
-<br />
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/Helix_oam.png?raw=true" width="200" class="center">
-
-## Surface Plasmon Resonance
-Shining light at the interface of a dielectric and a conductor gives us a strange byproduct known as a plasmon; a discrete packet of plasma that acts like a particle. I studied this phenomena in my Intro to Research Methods class. <br />
-[Read More](pages/SPR.md)
-<br />
-<img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png?raw=true" width="300">
 
 ## Simulations
 Scientific computing is a large part of my education here at Stout and I enjoy trying to simulate various systems in my free time 
