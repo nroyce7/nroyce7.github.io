@@ -1,7 +1,7 @@
 ## Optical Vortices
 
 I worked on a proof of concept system that uses the optical phenomenon known as an Optical Vortex created with a spatial light modulator, paired with programmable Arduino Boards to encode and decode the beam in order to transmit data through air. <br />
-[Read More](pages/Optical_Vortices.md)
+[Read More](/Optical_Vortices.md)
 <br />
 <img src=/Helix_oam.png width="200" class="center">
 
