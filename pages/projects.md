@@ -7,7 +7,7 @@ I worked on a proof of concept system that uses the optical phenomenon known as 
 
 ## Surface Plasmon Resonance
 Shining light at the interface of a dielectric and a conductor gives us a strange byproduct known as a plasmon; a discrete packet of plasma that acts like a particle. I studied this phenomena in my Intro to Research Methods class. <br />
-[Read More](pages/SPR.md)
+[Read More](/SPR.md)
 <br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr.png?raw=true" width="300">
 
