@@ -2,6 +2,12 @@
 
 My name is Noah and I'm an undergraduate studying Physics and Applied Mathematics at UW Stout. I've dreamed of becoming a scientist since I was 6 years old and I've known I wanted to study physics since middle school (before that I wanted to become a herpetologist, I still love reptiles though!). My current goal is to conduct research in quantum computing as it is the intersection of physics, mathematics, and computer science with far reaching applications within a wide variety of fields. My other interests in physics are quantum mechanics (naturally), statistical mechanics, astrophysics, and optics. Interests outside of physics (as they relate to physics as well as in general) include machine learning, science communication, data science, mathematical logic, and 3d printing. 
 
+## Research Projects
+Various projects and papers I've done that don't need a whole page.
+<br />
+[Read More](pages/misc.md)
+<br />
+
 ## Optical Vortices
 
 I worked on a proof of concept system that uses the optical phenomenon known as an Optical Vortex created with a spatial light modulator, paired with programmable Arduino Boards to encode and decode the beam in order to transmit data through air. <br />
@@ -35,10 +41,4 @@ These are images I've taken with various microscopes at UW Stout.
 [Read More](pages/microscopy.md)
 <br />
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/lab.PNG?raw=true" width="300">
-
-## Miscellaneous Projects
-Various projects and papers I've done that don't need a whole page.
-<br />
-[Read More](pages/misc.md)
-<br />
 
