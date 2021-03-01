@@ -2,9 +2,7 @@
 For my Introduction to Research Methods course we were split up into groups and given a semester long experiment to work on. My group's project had to do with Surface Plasmon Resonance (SPR).
 
 ### What is Surface Plasmon Resonance
-SPR is the resonant oscillation of conduction electrons at the interface between negative and positive permittivity material stimulated by incident light. 
-![image](https://user-images.githubusercontent.com/55113359/109534640-2c727300-7a81-11eb-864b-baaf2ad8be71.png)
-
+SPR is the resonant oscillation of conduction electrons at the interface between negative and positive permittivity material stimulated by incident light. This means that when light hits the interface between a conductor and an insulator oscillating "packets" of plasma are formed. These quanta of plasma are pseudo-particles called plasmons.
 
 <img src="https://github.com/nroyce7/nroyce7.github.io/blob/master/spr%20setup.jpg?raw=true" width="300" class="center">
 
