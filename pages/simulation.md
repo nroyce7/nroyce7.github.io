@@ -156,3 +156,57 @@ while not done:
         pygame.display.flip()
 ```
 <video src="/videos/PiDay.mp4" width="420" height="300" controls preload></video>
+
+### Mechanical Wave
+
+```
+import math
+import pygame as pygame
+
+pygame.init()
+screen = pygame.display.set_mode([1080, 720])
+surf = pygame.surface.Surface([700, 500])
+surf.fill((255, 255, 255))
+surf.set_colorkey((255, 255, 255))
+running = True
+
+screen.fill((255, 255, 255))
+
+offset_x = -25.0
+offset_y = 200.0
+column = 25
+row = 11
+n = 50
+r1 = 30.0
+t = 0.0
+dt = 0.005
+pos = []
+lines = []
+balls = []
+
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+    screen.fill((255, 255, 255))
+
+    for i in range(0, column):
+        pos.append(pygame.math.Vector2(r1 * math.cos(t + i*n) + offset_x + i*n, r1 * math.sin(t + i*n) + offset_y))
+
+        for j in range(0, row):
+            balls.append(pygame.draw.circle(screen, (0, 0, 0), pygame.math.Vector2((1 - j*0.1)*r1 * math.cos(t + i*n) + offset_x + i*n,
+                                                                                   (1 - j*0.1)*r1 * math.sin(t + i*n) + offset_y + j*n), 5))
+
+    for i in range(0, column-1):
+        lines.append(pygame.draw.line(screen, (0, 0, 0), pos[i], pos[i + 1]))
+
+    pos = []
+    balls = []
+    lines = []
+
+    screen.blit(surf, (0, 0))
+    print(t)
+    t += dt
+    pygame.display.flip()
+```
+<video src="/videos/wave.mp4" width="420" height="300" controls preload></video>
