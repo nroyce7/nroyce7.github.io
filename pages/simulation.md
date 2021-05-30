@@ -288,4 +288,4 @@ while running:
     t += dt
     pygame.display.flip()
 ```
-<video src="/videos/wave.mp4" width="420" height="300" controls preload></video>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/NuQHrkMypvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
