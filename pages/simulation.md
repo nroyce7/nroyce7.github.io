@@ -160,9 +160,7 @@ while run:
     # Close to 1 is ideal.  If too high, reduce ntries.  If too low, increase ntries.
     print(t*fps/1000)
 ```
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=LKIM1-Lr1ug">
-</iframe>
+<iframe width="1904" height="768" src="https://www.youtube.com/embed/LKIM1-Lr1ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Concentric Circular Orbits
 ```python
