@@ -160,11 +160,11 @@ while run:
     # Close to 1 is ideal.  If too high, reduce ntries.  If too low, increase ntries.
     print(t*fps/1000)
 ```
-<iframe width="400" height="200" src="https://www.youtube.com/embed/LKIM1-Lr1ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/LKIM1-Lr1ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2D Heat Diffusion 
 
-<iframe width="1904" height="768" src="https://www.youtube.com/embed/aAYY13_8b7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/aAYY13_8b7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pi Day Collisions
 ```python
