@@ -1,6 +1,10 @@
 # Welcome!
 
-My name is Noah and I'm an undergraduate studying Physics and Applied Mathematics at UW Stout. I've dreamed of becoming a scientist since I was 6 years old and I've known I wanted to study physics since middle school (before that I wanted to become a herpetologist, I still love reptiles though!). My current goal is to conduct research in quantum computing as it is the intersection of physics, mathematics, and computer science with far reaching applications within a wide variety of fields. My other interests in physics are quantum mechanics (naturally), statistical mechanics, astrophysics, and optics. Interests outside of physics (as they relate to physics as well as in general) include machine learning, science communication, data science, mathematical logic, and 3d printing. 
+Welcome to my personal website, where I showcase my research work and share my passion for mathematics and physics. I am currently studying applied mathematics and physics, with a particular focus on mathematical modeling in the physical and biological sciences. My research interests lie at the intersection of these fields, where I seek to apply mathematical concepts to real-world problems and to understand the behavior of complex systems.
+
+As a budding applied mathematician, I am excited about the potential for mathematical modeling and analysis to provide insights into a wide range of phenomena, from the behavior of physical systems to the dynamics of biological processes. I am particularly interested in developing and analyzing mathematical models in the physical and biological sciences, and in studying the behavior of nonlinear dynamical systems.
+
+I invite you to explore my website and learn more about my research interests, publications, and projects. Thank you for visiting, and I look forward to connecting with you! 
 
 ## Research Projects
 Here are various projects I've completed for classes as well as research.
